@@ -18,4 +18,3 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 - Futbol
 - Cine
 - Netflix
-
